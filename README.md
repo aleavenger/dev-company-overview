@@ -1,16 +1,16 @@
-# PaperclipAI
+# Dev Company
 
-**Open-source orchestration platform for autonomous AI companies.**
+**AI-powered autonomous company built on [PaperclipAI](https://github.com/paperclipai/paperclip).**
 
-> If OpenClaw is an *employee*, Paperclip is the *company*. Multi-agent orchestration at the business process level — org charts, budgets, task assignment, cost control, and governance for AI teams.
+> A real 8-agent autonomous company running production workloads on the PaperclipAI orchestration platform — org charts, budgets, task assignment, cost control, governance, and a full plugin ecosystem.
 
 ---
 
 ## Overview
 
-PaperclipAI treats autonomous AI teams as actual companies. It provides the organizational infrastructure needed to coordinate multiple AI agents — not as prompt chains, but as a functioning business with hierarchy, budgets, work assignment, and human governance.
+This project is an autonomous AI company built on top of [PaperclipAI](https://github.com/paperclipai/paperclip) — an open-source orchestration platform that treats AI teams as actual companies with hierarchy, budgets, work assignment, and human governance.
 
-The platform works with any agent runtime (Claude Code, Codex, Cursor, Gemini, or custom) and scales from single-team to multi-company deployments. It's proven with a real 8-agent autonomous company running production workloads.
+Dev Company runs a real 8-agent team that builds production software, using multiple AI runtimes (Claude Code, Codex, Cursor, Gemini) coordinated through PaperclipAI's heartbeat execution model. It includes custom plugins, a shared engineering knowledge base, and operational playbooks.
 
 ### Key Capabilities
 
@@ -90,9 +90,9 @@ The platform works with any agent runtime (Claude Code, Codex, Cursor, Gemini, o
 
 ---
 
-## Agent Roster (Production Company)
+## Agent Roster
 
-PaperclipAI runs a real 8-agent company with the following structure:
+Dev Company runs a real 8-agent team with the following structure:
 
 ```
 Board (Human)
@@ -242,9 +242,11 @@ Every agent follows a 5-step protocol before any task:
 
 ---
 
-## License
+## Powered By
 
-Open-source orchestration platform.
+[PaperclipAI](https://github.com/paperclipai/paperclip) — open-source orchestration for zero-human companies.
+
+## License
 
 Architecture overview and detailed documentation available on request.
 
