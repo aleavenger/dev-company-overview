@@ -236,9 +236,9 @@ Every agent follows a 5-step protocol before any task:
 
 ## Related Projects
 
-- [Invoice Flow](https://github.com/aleavenger/invoice-flow) — AI invoice automation SaaS (built by PaperclipAI agents)
-- [Nomus Connector](https://github.com/aleavenger/nomus-connector) — ERP integration layer
-- [Inbox Sentinel](https://github.com/aleavenger/inbox-sentinel) — AI email classification platform
+- [Invoice Flow](https://github.com/aleavenger/invoice-flow-overview) — AI invoice automation SaaS (built by PaperclipAI agents)
+- [Nomus Connector](https://github.com/aleavenger/nomus-connector-overview) — ERP integration layer
+- [Inbox Sentinel](https://github.com/aleavenger/inbox-sentinel-overview) — AI email classification platform
 
 ---
 
